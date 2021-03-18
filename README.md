@@ -2,7 +2,7 @@
 
 ![banner principal](/imgs/banner.png)
 
-## Sobre mim 👨🏻‍💻
+## Sobre mim 
 
 * Natural de Porto Alegre (RS) 📌
 * Aberto a novas oportunidades 🔍
@@ -24,3 +24,5 @@ Já realizei diversos trabalhos por conta própria como método de estudos, entr
 * Landing pages:
     Utilizando wordpress e elementor.
 
+## vamos nos conectar
+[![instagramlogo](/imgs/instagram-logo.png)](https://instagram.com/ferrarilr)
