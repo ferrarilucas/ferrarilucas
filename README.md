@@ -25,4 +25,4 @@ Já realizei diversos trabalhos por conta própria como método de estudos, entr
     Utilizando wordpress e elementor.
 
 ## vamos nos conectar
-[![instagramlogo](/imgs/instagram-logo.png)](https://instagram.com/ferrarilr = 250x)
+[![instagramlogo](/imgs/instagram-logo.png = 250x)](https://instagram.com/ferrarilr)
