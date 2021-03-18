@@ -24,5 +24,5 @@ Já realizei diversos trabalhos por conta própria como método de estudos, entr
 * Landing pages:
     Utilizando wordpress e elementor.
 
-## vamos nos conectar
-[<img scr = "/imgs/instagram-logo.png" style = "Width:200px;"/>](https://instagram.com/ferrarilr)
+## Vamos nos conectar
+[<img src = "/imgs/instagram-logo.png" style = "Width:200px;"/>](https://instagram.com/ferrarilr)
