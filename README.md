@@ -25,4 +25,7 @@ Já realizei diversos trabalhos por conta própria como método de estudos, entr
     Utilizando wordpress e elementor.
 
 ## Vamos nos conectar
-[<img src = "/imgs/instagram-logo.png" width="135" />](https://instagram.com/ferrarilr)
+<a src = "https://instagram.com/ferrarilr" target = "_blank"><img src = "/imgs/instagram-logo.png" width="80" /></a>
+<a src = "https://instagram.com/ferrarilr" target = "_blank"><img src = "/imgs/instagram-logo.png" width="80" /></a>
+<a src = "https://instagram.com/ferrarilr" target = "_blank"><img src = "/imgs/instagram-logo.png" width="80" /></a>
+<a src = "https://instagram.com/ferrarilr" target = "_blank"><img src = "/imgs/instagram-logo.png" width="80" /></a>
