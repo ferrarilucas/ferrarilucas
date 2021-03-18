@@ -25,9 +25,9 @@ Já realizei diversos trabalhos por conta própria como método de estudos, entr
     Utilizando wordpress e elementor.
 
 ## Vamos nos conectar
-<div aling = center>
-<a href = "https://instagram.com/ferrarilr" target = "_blank"><img src = "https://ionicabizau.github.io/badges/instagram.svg" width="80" /></a>
-<a href = "https://www.linkedin.com/in/lucasferrarir/" target = "_blank"><img src = "/imgs/linkedin.png" width="80" /></a>
-<a href = "https://twitter.com/ferrarilr" target = "_blank"><img src = "/imgs/twitter.png" width="85" /></a>
-<a href = "mailto:ferrari.lucasr@gmail.com" target = "_blank"><img src = "/imgs/email.png" width="90" /></a>
+<div align = "center">
+<a href = "https://instagram.com/ferrarilr" target="_blank"><img src = "/imgs/instagram-logo.png" width="50" /></a>
+<a href = "https://www.linkedin.com/in/lucasferrarir/" target="_blank"><img src = "/imgs/linkedin.png" width="50" /></a>
+<a href = "https://twitter.com/ferrarilr" target="_blank"><img src = "/imgs/twitter.png" width="60" /></a>
+<a href = "mailto:ferrari.lucasr@gmail.com" target="_blank"><img src = "/imgs/email.png" width="60" /></a>
 </div>
