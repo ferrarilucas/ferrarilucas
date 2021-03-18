@@ -14,7 +14,7 @@
  
 Já realizei diversos trabalhos por conta própria como método de estudos, entre eles:
  
- 
+
 * Um sistema web para a contratação de professores particulares:
     O qual me ajudou a aprofundar meus conhecimentos em banco de dados e programação assíncrona.
 * Aplicativo de conversão de valores em Flutter: 
@@ -25,9 +25,9 @@ Já realizei diversos trabalhos por conta própria como método de estudos, entr
     Utilizando wordpress e elementor.
 
 ## Vamos nos conectar
-<div style =" display: flex; justify-content: space-around; ">
-<a href = "https://instagram.com/ferrarilr" target = "_blank"><img src = "/imgs/instagram-logo.png" width="80" /></a>
+<div aling = center>
+<a href = "https://instagram.com/ferrarilr" target = "_blank"><img src = "https://ionicabizau.github.io/badges/instagram.svg" width="80" /></a>
 <a href = "https://www.linkedin.com/in/lucasferrarir/" target = "_blank"><img src = "/imgs/linkedin.png" width="80" /></a>
-<a href = "https://twitter.com/ferrarilr" target = "_blank"><img src = "/imgs/twitter.png" width="80" /></a>
-<a href = "mailto:ferrari.lucasr@gmail.com" target = "_blank"><img src = "/imgs/email.png" width="85" /></a>
+<a href = "https://twitter.com/ferrarilr" target = "_blank"><img src = "/imgs/twitter.png" width="85" /></a>
+<a href = "mailto:ferrari.lucasr@gmail.com" target = "_blank"><img src = "/imgs/email.png" width="90" /></a>
 </div>
