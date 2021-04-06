@@ -24,6 +24,9 @@ Já realizei diversos trabalhos por conta própria como método de estudos, entr
 * Landing pages:
     Utilizando wordpress e elementor.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferrarilucas&layout=compact)](https://github.com/ferrarilucas)
+
+
 ## Vamos nos conectar
 <div align = "center">
 <a href = "https://instagram.com/ferrarilr" target="_blank"><img src = "/imgs/instagram-logo.png" width="50" /></a>
