@@ -23,8 +23,8 @@ Já realizei diversos trabalhos por conta própria como método de estudos, entr
     Um sistema simples para que me aprimorasse na criação gráfica utilizando o framework PySimpleGUI
 * Landing pages:
     Utilizando wordpress e elementor.
-
-[![Ferrari's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ferrarilucas)](https://github.com/ferrarilucas)
+[![Ferrari's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferrarilucas)](https://github.com/ferrarilucas)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferrarilucas&layout=compact)](https://github.com/ferrarilucas)
 
 
 ## Vamos nos conectar
