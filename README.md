@@ -24,7 +24,7 @@ Já realizei diversos trabalhos por conta própria como método de estudos, entr
 * Landing pages:
     Utilizando wordpress e elementor.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferrarilucas&layout=compact)](https://github.com/ferrarilucas)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferrarilucas)](https://github.com/ferrarilucas)
 
 
 ## Vamos nos conectar
