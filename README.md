@@ -1,7 +1,5 @@
 # OLÁ, ME CHAMO LUCAS FERRARI 😎
 
-![banner principal](/imgs/banner.png)
-
 ## Sobre mim 
 
 * Natural de Porto Alegre (RS) 📌
