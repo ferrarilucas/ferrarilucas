@@ -28,10 +28,10 @@
    <img height="50" alt="CSS 3" title="CSS 3" src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg'>
    <img height="50" alt="Javascript" title="javascript" src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg'>
    <img height="50" alt="React.js" title="React.js" src='https://github.com/devicons/devicon/blob/v2.14.0/icons/react/react-original.svg'>
-   <img height="50" alt="Node.js" title="node.js" src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg'> 
-   <img height="50" alt="Python" title="Python" src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg'> 
-   <img height="50" alt="Dart" title="Dart" src='https://github.com/devicons/devicon/blob/v2.14.0/icons/dart/dart-original.svg'> 
-   <img height="50" alt="Flutter" title="Flutter" src='https://github.com/devicons/devicon/blob/v2.14.0/icons/flutter/flutter-original.svg'> 
+   <img height="50" alt="Next.js" title="Next.js" src='https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg'>
+   <img height="50" alt="Node.js" title="node.js" src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg'>
+   <img height="50" alt="CSharp" title="CSharp" src='https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg'> 
+
  </div>
 
 
