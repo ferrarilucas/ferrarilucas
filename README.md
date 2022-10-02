@@ -1,7 +1,7 @@
 # Olá, Eu sou o  Lucas Ferrari 
 
 * 📌 Natural de Porto Alegre (RS) 
-* 🎓 4º Semestre de Ciência da computação 
+* 🎓 6º Semestre de Ciência da computação 
 * 📚 Estudando Typescript / React.js
 * ☕ Transformando café em código 
 
