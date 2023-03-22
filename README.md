@@ -1,7 +1,7 @@
-# Olá, Eu sou o  Lucas Ferrari 
+# Olá, Eu sou o  Lucas 
 
 * 📌 Natural de Porto Alegre (RS) 
-* 🎓 6º Semestre de Ciência da computação 
+* 🎓 7º Semestre de Ciência da computação 
 * 📚 Estudando Typescript / React.js
 * ☕ Transformando café em código 
 
@@ -9,7 +9,7 @@
   <p>
    Um ser humano deve transformar informação em inteligência ou conhecimento. Tendemos a esquecer que nenhum computador jamais fará uma nova pergunta.
  </p>
- -Grace Hopper
+  -Grace Hopper
  </blockquote>
 
  ##
