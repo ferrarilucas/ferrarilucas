@@ -1,7 +1,7 @@
 # Olá, Eu sou o  Lucas 
 
-* 📌 Natural de Porto Alegre (RS) 
 * 📚 Desenvolvedor FullStack Typescript / React.js / Next.Js / node.Js / C# / PHP
+* 📌 Natural de Porto Alegre (RS) 
 * ☕ Transformando café em código 
 
  <blockquote>
