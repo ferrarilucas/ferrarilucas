@@ -1,8 +1,7 @@
 # Olá, Eu sou o  Lucas 
 
 * 📌 Natural de Porto Alegre (RS) 
-* 🎓 7º Semestre de Ciência da computação 
-* 📚 Estudando Typescript / React.js
+* 📚 Desenvolvedor FullStack Typescript / React.js / Next.Js / node.Js / C# / PHP
 * ☕ Transformando café em código 
 
  <blockquote>
